@@ -11,5 +11,7 @@ As a developer I take privacy very seriously, with it always in mind when I am c
 If you notice any vulnerability within the app or have any questions regarding the code and how the app functions, please don't hesitate to email me and I will get back to you ASAP.
 
 Austin Kludass
+
 NSW, Australia
+
 austinkludass@gmail.com
